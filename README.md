@@ -207,3 +207,16 @@ o) Categorize Content Based on the Presence of 'Kill' and 'Violence' Keywords -
 
 ![Netflix 16](https://github.com/user-attachments/assets/d1daf7c2-7591-4791-8521-b40e2e107b43)     
 
+## Insights:
+
+a) Netflix's majority of content was of the 'movie' type(6131), compared to the 'TV Show' type(2676). 
+
+b) International Movies were the top genre among the dataset with significant titles listed under this category, followed by Dramas and Comedy genres respectively. 
+
+c) A notable portion of the content was added in recent years, showing a strong trend toward new releases.
+
+d) In country-wise analysis, the United States had the most releases, with 2818, followed by India(972) and the United Kingdom(419). 
+
+e) "TV-MA" was the most common rating for titles in both the movie and TV Show types. 
+
+f) Anupam Kher was the actor w.r.t India, who has the most number of releases on Netflix with 36 titles under his name. 
